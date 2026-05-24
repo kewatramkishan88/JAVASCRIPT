@@ -1,0 +1,59 @@
+# VS Code Keyboard Shortcuts (Windows)
+
+- Ctrl + Shift + P: Show Command Palette
+- Ctrl + P: Quick Open file
+- Ctrl + N: New file
+- Ctrl + O: Open file
+- Ctrl + S: Save file
+- Ctrl + Shift + S: Save As
+- Ctrl + W: Close editor
+- Ctrl + Shift + T: Reopen closed editor
+- Ctrl + `: Toggle integrated terminal
+- Ctrl + B: Toggle sidebar visibility
+- Ctrl + Shift + E: Show Explorer
+- Ctrl + Shift + F: Search across files
+- Ctrl + Shift + G: Open Source Control
+- Ctrl + Shift + D: Open Run and Debug
+- Ctrl + Shift + X: Open Extensions
+- Ctrl + K Ctrl + S: Keyboard shortcuts reference
+- Ctrl + F: Find in file
+- Ctrl + H: Replace in file
+- F3 / Shift + F3: Find next/previous
+- Alt + ↑ / Alt + ↓: Move line up/down
+- Ctrl + /: Toggle line comment
+- Shift + Alt + A: Toggle block comment
+- Ctrl + ] / Ctrl + [: Indent/outdent line
+- Alt + Z: Toggle word wrap
+- Ctrl + Space: Trigger suggestion
+- Ctrl + Shift + Space: Trigger parameter hints
+- Ctrl + Enter: Insert line below
+- Ctrl + Shift + Enter: Insert line above
+- Ctrl + D: Add selection to next find match
+- Ctrl + L: Select current line
+- Ctrl + Shift + L: Select all occurrences of current selection
+- Ctrl + F2: Select all occurrences of current word
+- Ctrl + K Ctrl + C: Add line comment
+- Ctrl + K Ctrl + U: Remove line comment
+- Ctrl + Shift + O: Go to symbol in file
+- Ctrl + G: Go to line
+- F12: Go to definition
+- Alt + F12: Peek definition
+- Ctrl + K F12: Open definition to the side
+- Ctrl + - : Navigate back
+- Ctrl + Shift + - : Navigate forward
+- Ctrl + Tab: Switch editor tabs
+- Ctrl + Shift + Tab: Switch editor tabs backward
+- Ctrl + Shift + \: Jump to matching bracket
+- Ctrl + Alt + ↓ / Ctrl + Alt + ↑: Insert cursor below/above
+- Ctrl + Shift + Alt + Arrow: Column (box) selection
+- Ctrl + F4: Close editor
+- Ctrl + K Z: Zen Mode
+- F11: Toggle full screen
+- Shift + Alt + F: Format document
+- Ctrl + K Ctrl + F: Format selection
+- Ctrl + Shift + M: Show Problems panel
+- Ctrl + J: Toggle panel
+- Ctrl + Shift + U: Show output panel
+- Ctrl + K V: Open Markdown preview
+- Ctrl + Shift + V: Open Markdown preview to the side
+- Ctrl + `: Toggle integrated terminal

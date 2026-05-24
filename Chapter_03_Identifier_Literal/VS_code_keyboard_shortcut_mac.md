@@ -1,0 +1,59 @@
+# VS Code Keyboard Shortcuts (Mac)
+
+- Cmd + Shift + P: Show Command Palette
+- Cmd + P: Quick Open file
+- Cmd + N: New file
+- Cmd + O: Open file
+- Cmd + S: Save file
+- Cmd + Shift + S: Save As
+- Cmd + W: Close editor
+- Cmd + Shift + T: Reopen closed editor
+- Ctrl + `: Toggle integrated terminal
+- Cmd + B: Toggle sidebar visibility
+- Cmd + Shift + E: Show Explorer
+- Cmd + Shift + F: Search across files
+- Cmd + Shift + G: Open Source Control
+- Cmd + Shift + D: Open Run and Debug
+- Cmd + Shift + X: Open Extensions
+- Cmd + K Cmd + S: Keyboard shortcuts reference
+- Cmd + F: Find in file
+- Cmd + Option + F: Replace in file
+- Cmd + G / Cmd + Shift + G: Find next/previous
+- Option + ↑ / Option + ↓: Move line up/down
+- Cmd + /: Toggle line comment
+- Shift + Option + A: Toggle block comment
+- Cmd + ] / Cmd + [: Indent/outdent line
+- Option + Z: Toggle word wrap
+- Ctrl + Space: Trigger suggestion
+- Cmd + Shift + Space: Trigger parameter hints
+- Cmd + Enter: Insert line below
+- Cmd + Shift + Enter: Insert line above
+- Cmd + D: Add selection to next find match
+- Cmd + L: Select current line
+- Cmd + Shift + L: Select all occurrences of current selection
+- Cmd + F2: Select all occurrences of current word
+- Cmd + K Cmd + C: Add line comment
+- Cmd + K Cmd + U: Remove line comment
+- Cmd + Shift + O: Go to symbol in file
+- Cmd + G: Go to line
+- F12: Go to definition
+- Option + F12: Peek definition
+- Cmd + K F12: Open definition to the side
+- Cmd + - : Navigate back
+- Cmd + Shift + - : Navigate forward
+- Cmd + Tab: Switch editor tabs
+- Cmd + Shift + Tab: Switch editor tabs backward
+- Cmd + Shift + \: Jump to matching bracket
+- Option + Cmd + ↓ / Option + Cmd + ↑: Insert cursor below/above
+- Shift + Option + Drag: Column (box) selection
+- Cmd + W: Close editor
+- Cmd + K Z: Zen Mode
+- Cmd + Ctrl + F: Toggle full screen
+- Shift + Option + F: Format document
+- Cmd + K Cmd + F: Format selection
+- Cmd + Shift + M: Show Problems panel
+- Cmd + J: Toggle panel
+- Cmd + Shift + U: Show output panel
+- Cmd + K V: Open Markdown preview
+- Cmd + Shift + V: Open Markdown preview to the side
+- Ctrl + `: Toggle integrated terminal
